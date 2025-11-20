@@ -1,6 +1,6 @@
 <div align="center">
 
-![Deepnote logo full dark](/assets/deepnote-cover-image.png)
+<img src="assets/deepnote-logo.png" alt="Deepnote logo full dark" width="400"/>
 
 [![CI](https://github.com/deepnote/deepnote/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/deepnote/deepnote/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/deepnote/deepnote/graph/badge.svg?token=7DHBMXZS28)](https://codecov.io/gh/deepnote/deepnote)
@@ -9,9 +9,7 @@
 
 </div>
 
-# Deepnote is a data notebook for the AI era
-
-Deepnote is used by 500,000+ data professionals at companies like Estée Lauder, SoundCloud, Statsig, Gusto, and beyond.
+Deepnote is the modern successor to Jupyter—backwards-compatible, AI-powered, and built with a sleek UI, new blocks, and native data integrations for seamless local or cloud workflows. Used by 500,000+ data professionals at leading companies worldwide.
 
 Get started with Deepnote in seconds:
 
